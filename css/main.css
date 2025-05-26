@@ -1,0 +1,136 @@
+body {
+  background-color: #fff;
+}
+
+.avatar-img {
+  height: 30px;
+  border-radius: 50px;
+  margin-left: 25px;
+}
+
+.phone {
+  background-color: #eee;
+  width: 300px;
+  border-radius: 75px;
+  height: 600px;
+  margin-left: 410px;
+  margin-top: 20px;
+  border: white solid 50px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  background-color: #bd50e3;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+h3 {
+  margin-right: 165px;
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+.name-desc p {
+  font-size: 10px;
+  position: relative;
+  bottom: 10px;
+}
+
+.one {
+  background-color: #c2bdbd;
+  border-radius: 8px;
+  width: 170px;
+  margin-left: 15px;
+  padding: 10px;
+  color: #bc50e4;
+}
+
+.two {
+  background-color: #c2bdbd;
+  border-radius: 8px;
+  width: 200px;
+  margin-left: 15px;
+  padding: 10px;
+  color: #bc50e4;
+}
+
+img {
+  height: 55px;
+  border-radius: 15px;
+  position: relative;
+  left: 115px;
+}
+
+.three {
+  background-color: #fff;
+  border-radius: 8px;
+  width: 200px;
+  position: relative;
+  left: 70px;
+  padding: 10px;
+}
+
+.four {
+  background-color: #fff;
+  border-radius: 8px;
+  width: 200px;
+  position: relative;
+  left: 70px;
+  padding: 10px;
+}
+
+.five {
+  background-color: #c2bdbd;
+  border-radius: 8px;
+  width: 200px;
+  margin-left: 15px;
+  padding: 10px;
+  color: #bc50e4;
+}
+
+input {
+  border: none;
+  border-radius: 15px;
+  height: 30px;
+  width: 280px;
+  position: relative;
+  left: 8px;
+  top: 10px;
+}
+
+.arrow {
+  height: 20px;
+  position: relative;
+  bottom: 16px;
+  left: 265px;
+}
+
+.new {
+  background-color: #bc50e4;
+  color: #bc50e4;
+  width: 35%;
+  height: 800px;
+  position: relative;
+  bottom: 850px;
+  right: 70px;
+  border-bottom-left-radius: 250px;
+  border-bottom-right-radius: 250px;
+}
+
+h2 {
+  position: relative;
+  left: 900px;
+  bottom: 1300px;
+  font-size: 40px;
+}
+
+.end {
+  width: 390px;
+  position: relative;
+  left: 900px;
+  bottom: 1300px;
+}
